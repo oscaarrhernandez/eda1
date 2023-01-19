@@ -1,0 +1,32 @@
+
+Tiempo usado para ordenar una lista de 100 elementos = 0.000000 y el numero de interacciones realizadas es de 2739
+
+
+Tiempo usado para ordenar una lista de 500 elementos = 0.015625 y el numero de interacciones realizadas es de 13920
+
+
+Tiempo usado para ordenar una lista de 800 elementos = 0.015625 y el numero de interacciones realizadas es de 22151
+
+
+Tiempo usado para ordenar una lista de 1000 elementos = 0.046875 y el numero de interacciones realizadas es de 27581
+
+
+Tiempo usado para ordenar una lista de 2500 elementos = 0.375000 y el numero de interacciones realizadas es de 69322
+
+
+Tiempo usado para ordenar una lista de 4000 elementos = 1.078125 y el numero de interacciones realizadas es de 109413
+
+
+Tiempo usado para ordenar una lista de 6000 elementos = 2.609375 y el numero de interacciones realizadas es de 165369
+
+
+Tiempo usado para ordenar una lista de 8000 elementos = 4.828125 y el numero de interacciones realizadas es de 219101
+
+
+Tiempo usado para ordenar una lista de 10000 elementos = 8.203125 y el numero de interacciones realizadas es de 275394
+
+
+Tiempo usado para ordenar una lista de 20 elementos = 0.000000 y el numero de interacciones realizadas es de 522
+
+
+Tiempo usado para ordenar una lista de 20 elementos = 0.000000 y el numero de interacciones realizadas es de 569
